@@ -1,6 +1,7 @@
 # Python で気軽に化学・化学工学
 
 書籍「Pythonで気軽に化学・化学工学」(金子弘昌 著) のサンプルプログラム・サンプルデータセットです。
+内容: https://datachemeng.com/post-4203/  
 
 **本書のURL**  
 丸善: https://www.maruzen-publishing.co.jp/item/?book_no=304108  
